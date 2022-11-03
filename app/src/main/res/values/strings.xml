@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical7_20012011166</string>
+    <string name="CreateAlarmDescription">By pressing buttons, Alarm can be created and cancelled.\n\nCheck Current time by looking below real digital clock.</string>
+    <string name="CancelAlarmDescription">Set Alarm Time:</string>
+</resources>
